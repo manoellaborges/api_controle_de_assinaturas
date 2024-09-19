@@ -1,0 +1,11 @@
+.vs/
+*.vscode/
+*.user
+*.suo
+*.userosscache
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.tmp

@@ -206,3 +206,4 @@ C:\work\repositorio\api_controle_de_assinaturas\projeto-api\obj\Debug\net8.0\ref
 C:\work\repositorio\api_controle_de_assinaturas\projeto-api\obj\Debug\net8.0\projeto-api.pdb
 C:\work\repositorio\api_controle_de_assinaturas\projeto-api\obj\Debug\net8.0\projeto-api.genruntimeconfig.cache
 C:\work\repositorio\api_controle_de_assinaturas\projeto-api\obj\Debug\net8.0\ref\projeto-api.dll
+C:\work\repositorio\api_controle_de_assinaturas\projeto-api\obj\Debug\net8.0\projeto-api.sourcelink.json

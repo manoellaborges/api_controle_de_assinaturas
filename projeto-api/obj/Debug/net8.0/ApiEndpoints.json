@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "ControleDeAssinaturasController",
+    "Method": "GetAll",
+    "RelativePath": "api/ControleDeAssinaturas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleDeAssinaturasController",
+    "Method": "Create",
+    "RelativePath": "api/ControleDeAssinaturas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "controleDeAssinaturas",
+        "Type": "ControleDeAssinaturasModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleDeAssinaturasController",
+    "Method": "GetById",
+    "RelativePath": "api/ControleDeAssinaturas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleDeAssinaturasController",
+    "Method": "Update",
+    "RelativePath": "api/ControleDeAssinaturas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "controleDeAssinaturas",
+        "Type": "ControleDeAssinaturasModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleDeAssinaturasController",
+    "Method": "Delete",
+    "RelativePath": "api/ControleDeAssinaturas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

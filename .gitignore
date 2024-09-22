@@ -9,3 +9,5 @@
 *.opensdf
 *.cache
 *.tmp
+/bin/
+/obj/

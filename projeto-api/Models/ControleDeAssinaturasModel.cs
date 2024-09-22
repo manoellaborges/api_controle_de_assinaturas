@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Text.Json.Serialization;
 
 public class ControleDeAssinaturasModel
 {
+    [JsonIgnore]
     public Guid Id { get; set; } = Guid.NewGuid();
     public DateTime DataCriacao { get; set; }
     public DateTime DataPagamento { get; set; }

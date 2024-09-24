@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\work\\repositorio\\api_controle_de_assinaturas\\",
+  "WorkspaceRootPath": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|c:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|solutionrelative:projeto-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|c:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|solutionrelative:projeto-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|c:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\models\\controledeassinaturasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|solutionrelative:projeto-api\\models\\controledeassinaturasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|c:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\api-controledeassinaturas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|solutionrelative:projeto-api\\api-controledeassinaturas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|c:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\controllers\\controledeassinaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|solutionrelative:projeto-api\\controllers\\controledeassinaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|c:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|solutionrelative:projeto-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|c:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|solutionrelative:projeto-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|c:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\controllers\\controledeassinaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|solutionrelative:projeto-api\\controllers\\controledeassinaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|c:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|solutionrelative:projeto-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|c:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\models\\controledeassinaturasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|solutionrelative:projeto-api\\models\\controledeassinaturasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|c:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\services\\icontroledeassinaturasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|solutionrelative:projeto-api\\services\\icontroledeassinaturasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|c:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\services\\icontroledeassinaturasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|solutionrelative:projeto-api\\services\\icontroledeassinaturasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|c:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\services\\controledeassinaturasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|solutionrelative:projeto-api\\services\\controledeassinaturasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|c:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\repositories\\controledeassinaturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|solutionrelative:projeto-api\\repositories\\controledeassinaturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|c:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\repositories\\controledeassinaturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|solutionrelative:projeto-api\\repositories\\controledeassinaturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|c:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\services\\controledeassinaturasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|solutionrelative:projeto-api\\services\\controledeassinaturasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|c:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\repositories\\icontroledeassinaturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\projeto-api.csproj|solutionrelative:projeto-api\\repositories\\icontroledeassinaturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|c:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\repositories\\icontroledeassinaturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0C261-6768-4048-9BEE-6EADC0B6379E}|projeto-api\\API-ControleDeAssinaturas.csproj|solutionrelative:projeto-api\\repositories\\icontroledeassinaturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,52 +46,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "projeto-api\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "projeto-api\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:59:40.756Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\appsettings.json",
+              "RelativeDocumentMoniker": "projeto-api\\appsettings.json",
+              "ToolTip": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\appsettings.json",
+              "RelativeToolTip": "projeto-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T23:23:56.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API-ControleDeAssinaturas.csproj",
+              "DocumentMoniker": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\API-ControleDeAssinaturas.csproj",
+              "RelativeDocumentMoniker": "projeto-api\\API-ControleDeAssinaturas.csproj",
+              "ToolTip": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\API-ControleDeAssinaturas.csproj",
+              "RelativeToolTip": "projeto-api\\API-ControleDeAssinaturas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T18:17:17.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "projeto-api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "projeto-api\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:59:40.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ControleDeAssinaturasController.cs",
-              "DocumentMoniker": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Controllers\\ControleDeAssinaturasController.cs",
+              "DocumentMoniker": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Controllers\\ControleDeAssinaturasController.cs",
               "RelativeDocumentMoniker": "projeto-api\\Controllers\\ControleDeAssinaturasController.cs",
-              "ToolTip": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Controllers\\ControleDeAssinaturasController.cs",
+              "ToolTip": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Controllers\\ControleDeAssinaturasController.cs",
               "RelativeToolTip": "projeto-api\\Controllers\\ControleDeAssinaturasController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,73 +100,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ControleDeAssinaturasModel.cs",
-              "DocumentMoniker": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Models\\ControleDeAssinaturasModel.cs",
+              "DocumentMoniker": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Models\\ControleDeAssinaturasModel.cs",
               "RelativeDocumentMoniker": "projeto-api\\Models\\ControleDeAssinaturasModel.cs",
-              "ToolTip": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Models\\ControleDeAssinaturasModel.cs",
+              "ToolTip": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Models\\ControleDeAssinaturasModel.cs",
               "RelativeToolTip": "projeto-api\\Models\\ControleDeAssinaturasModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T16:58:11.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Program.cs",
-              "RelativeDocumentMoniker": "projeto-api\\Program.cs",
-              "ToolTip": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Program.cs",
-              "RelativeToolTip": "projeto-api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:04:27.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "projeto-api\\appsettings.Development.json",
-              "ToolTip": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\appsettings.Development.json",
-              "RelativeToolTip": "projeto-api\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-19T18:35:23.282Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IControleDeAssinaturasServices.cs",
-              "DocumentMoniker": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Services\\IControleDeAssinaturasServices.cs",
+              "DocumentMoniker": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Services\\IControleDeAssinaturasServices.cs",
               "RelativeDocumentMoniker": "projeto-api\\Services\\IControleDeAssinaturasServices.cs",
-              "ToolTip": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Services\\IControleDeAssinaturasServices.cs",
+              "ToolTip": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Services\\IControleDeAssinaturasServices.cs",
               "RelativeToolTip": "projeto-api\\Services\\IControleDeAssinaturasServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T16:58:47.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ControleDeAssinaturasRepository.cs",
-              "DocumentMoniker": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Repositories\\ControleDeAssinaturasRepository.cs",
+              "DocumentMoniker": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Repositories\\ControleDeAssinaturasRepository.cs",
               "RelativeDocumentMoniker": "projeto-api\\Repositories\\ControleDeAssinaturasRepository.cs",
-              "ToolTip": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Repositories\\ControleDeAssinaturasRepository.cs",
+              "ToolTip": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Repositories\\ControleDeAssinaturasRepository.cs",
               "RelativeToolTip": "projeto-api\\Repositories\\ControleDeAssinaturasRepository.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwCIAAAA6AAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T17:19:01.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ControleDeAssinaturasServices.cs",
-              "DocumentMoniker": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Services\\ControleDeAssinaturasServices.cs",
+              "DocumentMoniker": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Services\\ControleDeAssinaturasServices.cs",
               "RelativeDocumentMoniker": "projeto-api\\Services\\ControleDeAssinaturasServices.cs",
-              "ToolTip": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Services\\ControleDeAssinaturasServices.cs",
+              "ToolTip": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Services\\ControleDeAssinaturasServices.cs",
               "RelativeToolTip": "projeto-api\\Services\\ControleDeAssinaturasServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T16:59:14.197Z"
             },
@@ -173,11 +150,11 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "IControleDeAssinaturasRepository.cs",
-              "DocumentMoniker": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Repositories\\IControleDeAssinaturasRepository.cs",
+              "DocumentMoniker": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Repositories\\IControleDeAssinaturasRepository.cs",
               "RelativeDocumentMoniker": "projeto-api\\Repositories\\IControleDeAssinaturasRepository.cs",
-              "ToolTip": "C:\\work\\repositorio\\api_controle_de_assinaturas\\projeto-api\\Repositories\\IControleDeAssinaturasRepository.cs",
+              "ToolTip": "C:\\projetos-trabalhos\\api_controle_de_assinaturas\\projeto-api\\Repositories\\IControleDeAssinaturasRepository.cs",
               "RelativeToolTip": "projeto-api\\Repositories\\IControleDeAssinaturasRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T17:18:29.344Z"
             }

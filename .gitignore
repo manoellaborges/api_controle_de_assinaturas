@@ -9,5 +9,5 @@
 *.opensdf
 *.cache
 *.tmp
-/bin/
-/obj/
+/projeto-api/bin/
+/projeto-api/obj/
